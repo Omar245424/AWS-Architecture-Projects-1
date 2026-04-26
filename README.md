@@ -1,2 +1,2 @@
 # Cloud Architecture Projects
-A place where I design, build and share Cloud Infrastructure projects.😄
+Let's Design and Build The Cloud Architecture of a Coffee Voting Website on AWS.😄
